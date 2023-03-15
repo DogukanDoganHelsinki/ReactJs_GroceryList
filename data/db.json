@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "Almonds, Unsalted, in the blue bag"
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "item": "Pizza",
+      "bok": false
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "item": "Bread"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "test"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "Dogukan"
+    }
+  ]
+}
